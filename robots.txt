@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lumporth.github.io/sitemap
+Sitemap: https://lumporth.github.io/app/sitemap
+Sitemap: https://lumporth.github.io/assets/sitemap
+Sitemap: https://lumporth.github.io/css/sitemap
+Sitemap: https://lumporth.github.io/includes/sitemap
+Sitemap: https://lumporth.github.io/item/sitemap
+Sitemap: https://lumporth.github.io/src/sitemap
